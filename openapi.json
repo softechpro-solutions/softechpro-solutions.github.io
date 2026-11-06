@@ -2,8 +2,8 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Softechpro Solutions B2B ECU Calibration REST API",
-    "version": "2.0.4",
-    "description": "Automated B2B ECU analysis, DPF/EGR/AdBlue/DTC calibration, Stage 1 remapping & checksum API for tuning portals and master dealers.",
+    "version": "2.0.6",
+    "description": "Automated B2B ECU analysis, DPF/EGR/AdBlue/DTC calibration, Stage 1 remapping & checksum API (v2.0.6) for tuning portals and master dealers.",
     "contact": {
       "name": "Softechpro Engineering Team",
       "url": "https://www.softechpro-solutions.com/developers",
