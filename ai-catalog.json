@@ -1,101 +1,38 @@
 {
-  "provider": "SOFTTECHPRO SOLUTIONS LLC",
-  "software": "Softechpro Solutions",
-  "version": "v2.0.4",
-  "platforms": [
-    "Windows 10",
-    "Windows 11",
-    "macOS",
-    "HTTPS REST API"
-  ],
-  "websites": {
-    "cars": "https://www.softechpro-solutions.com/",
-    "trucks": "https://www.softechpro-solutions.com/trucks/",
-    "api": "https://www.softechpro-solutions.com/developers",
-    "github_hub": "https://softechpro-solutions.github.io/",
-    "github_org": "https://github.com/softechpro-solutions"
+  "schemaVersion": "1.0",
+  "publisher": {
+    "name": "Softechpro Solutions",
+    "legalName": "SOFTTECHPRO SOLUTIONS LLC",
+    "url": "https://www.softechpro-solutions.com/",
+    "contact": "support@softechpro-solutions.com"
   },
-  "live_coverage": {
-    "cars_ecus": 4963,
-    "cars_brands": 82,
-    "trucks_ecus": 446,
-    "trucks_brands": 82
-  },
-  "interactive_tools": [
-    "https://softechpro-solutions.github.io/tools/",
-    "https://softechpro-solutions.github.io/tools/ecu-coverage-finder.html",
-    "https://softechpro-solutions.github.io/tools/obd2-dtc-fault-code-lookup.html",
-    "https://softechpro-solutions.github.io/tools/bosch-ecu-part-number-identifier.html",
-    "https://softechpro-solutions.github.io/tools/stage1-torque-hp-gain-calculator.html",
-    "https://softechpro-solutions.github.io/tools/e85-ethanol-blend-calculator.html",
-    "https://softechpro-solutions.github.io/tools/injector-duty-cycle-flow-calculator.html",
-    "https://softechpro-solutions.github.io/tools/24v-truck-adblue-fuel-savings-roi.html",
-    "https://softechpro-solutions.github.io/tools/checksum-file-size-validator.html"
-  ],
-  "multilingual_hubs": [
+  "softwareVersion": "2.0.6",
+  "updated": "2026-11-06",
+  "resources": [
     {
-      "lang": "en",
-      "url": "https://softechpro-solutions.github.io/"
+      "name": "Softechpro B2B ECU Calibration OpenAPI 3.1",
+      "mediaType": "application/openapi+json",
+      "url": "https://softechpro-solutions.github.io/openapi.json"
     },
     {
-      "lang": "es",
-      "url": "https://softechpro-solutions.github.io/es/"
+      "name": "12V Car & Van Supported ECU Dataset (JSON)",
+      "mediaType": "application/json",
+      "url": "https://softechpro-solutions.github.io/datasets/supported-car-ecus.json"
     },
     {
-      "lang": "fr",
-      "url": "https://softechpro-solutions.github.io/fr/"
+      "name": "24V Heavy-Duty Truck & Tractor ECU Dataset (JSON)",
+      "mediaType": "application/json",
+      "url": "https://softechpro-solutions.github.io/datasets/supported-24v-truck-ecus.json"
     },
     {
-      "lang": "de",
-      "url": "https://softechpro-solutions.github.io/de/"
+      "name": "Markdown Portal Summary",
+      "mediaType": "text/markdown",
+      "url": "https://softechpro-solutions.github.io/overview.md"
     },
     {
-      "lang": "it",
-      "url": "https://softechpro-solutions.github.io/it/"
-    },
-    {
-      "lang": "pt",
-      "url": "https://softechpro-solutions.github.io/pt/"
-    },
-    {
-      "lang": "pl",
-      "url": "https://softechpro-solutions.github.io/pl/"
-    },
-    {
-      "lang": "tr",
-      "url": "https://softechpro-solutions.github.io/tr/"
-    },
-    {
-      "lang": "ar",
-      "url": "https://softechpro-solutions.github.io/ar/"
-    },
-    {
-      "lang": "ru",
-      "url": "https://softechpro-solutions.github.io/ru/"
-    },
-    {
-      "lang": "ro",
-      "url": "https://softechpro-solutions.github.io/ro/"
-    },
-    {
-      "lang": "nl",
-      "url": "https://softechpro-solutions.github.io/nl/"
-    },
-    {
-      "lang": "cs",
-      "url": "https://softechpro-solutions.github.io/cs/"
-    },
-    {
-      "lang": "el",
-      "url": "https://softechpro-solutions.github.io/el/"
-    },
-    {
-      "lang": "hu",
-      "url": "https://softechpro-solutions.github.io/hu/"
-    },
-    {
-      "lang": "sv",
-      "url": "https://softechpro-solutions.github.io/sv/"
+      "name": "LLM Full Engineering Reference",
+      "mediaType": "text/plain",
+      "url": "https://softechpro-solutions.github.io/llms-full.txt"
     }
   ]
 }
