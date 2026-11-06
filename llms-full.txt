@@ -1,4 +1,4 @@
-# Softechpro Solutions (v2.0.6) — 729+ Page Technical ECU Reference
+# Softechpro Solutions (v2.0.6) — 819+ Page Technical ECU Reference
 
 - Official Cars & Vans Site (4965+ ECUs): https://www.softechpro-solutions.com/
 - Official 24V Trucks & Agri Suite (446+ ECUs): https://www.softechpro-solutions.com/trucks/
@@ -6,8 +6,11 @@
 - 240 Service × ECU Matrix: https://softechpro-solutions.github.io/solutions/
 - 150 OBD-II DTC Fault Code Guides: https://softechpro-solutions.github.io/dtc/
 - 120 Vehicle × ECU Generation Guides: https://softechpro-solutions.github.io/vehicles/
+- 60 Automotive ECU Engineering Glossary: https://softechpro-solutions.github.io/glossary/
+- 24 Master OEM Playbooks: https://softechpro-solutions.github.io/guides/
+- Open JSON/CSV Datasets: https://softechpro-solutions.github.io/datasets/
 - 18 Workflow Comparisons: https://softechpro-solutions.github.io/compare/
 - 24 Hardware Programmer Guides: https://softechpro-solutions.github.io/programmers/
 - 164 Brand Directories: https://softechpro-solutions.github.io/brands/
 - 90 Exact ECU Controller Guides: https://softechpro-solutions.github.io/ecu/
-- Master HTML Sitemap (729 URLs): https://softechpro-solutions.github.io/html-sitemap.html
+- Master HTML Sitemap (819 URLs): https://softechpro-solutions.github.io/html-sitemap.html

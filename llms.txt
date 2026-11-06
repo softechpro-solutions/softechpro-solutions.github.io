@@ -5,4 +5,6 @@
 - €1.99 25h Real Software Test (+3 Free Credits): https://www.softechpro-solutions.com/buy/realtest
 - 24V Heavy-Duty Trucks & Agriculture (446+ ECUs): https://www.softechpro-solutions.com/trucks/
 - Dealer & Developer REST API: https://www.softechpro-solutions.com/developers
-- Full LLM Reference (729+ Pages): https://softechpro-solutions.github.io/llms-full.txt
+- Markdown Summary: https://softechpro-solutions.github.io/index.md
+- Open JSON/CSV ECU Datasets: https://softechpro-solutions.github.io/datasets/
+- Full LLM Reference (819+ Pages): https://softechpro-solutions.github.io/llms-full.txt

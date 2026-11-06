@@ -1,0 +1,25 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.softechpro-solutions.com/api/v1",
+      "service-desc": [
+        {
+          "href": "https://softechpro-solutions.github.io/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://www.softechpro-solutions.com/developers",
+          "type": "text/html"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://softechpro-solutions.github.io/",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}
