@@ -1,6 +1,6 @@
 # Softechpro Solutions (v2.0.6) — Automated ECU Calibration, Emissions Diagnostics & Checksum Suite
 
-**Softechpro Solutions (v2.0.6)** is a native **Windows 10/11 & macOS** desktop ECU calibration application and **B2B HTTPS REST API** covering **4,973+ 12V Car & Light Van ECUs** (79 brands) and **446+ 24V Heavy-Duty Truck, Bus, Agricultural Tractor & Construction ECUs** (82 brands).
+**Softechpro Solutions (v2.0.6)** is a native **Windows 10/11 & macOS** desktop ECU calibration application and **B2B HTTPS REST API** covering **4,973+ 12V Car & Light Van ECUs** (79 brands) and **452+ 24V Heavy-Duty Truck, Bus, Agricultural Tractor & Construction ECUs** (82 brands).
 
 ## Core Capabilities
 - **Daily Patch Modules (0 Extra Credits):** Automated DPF/FAP/OPF Off, EGR Off, AdBlue/SCR/NOx Off, Swirl Flaps Off, TVA Off & Selective OBD-II DTC Off.

@@ -1,7 +1,7 @@
 # Softechpro Solutions (v2.0.6) — 966+ Page Technical ECU Reference
 
 - Official Cars & Vans Site (4973+ ECUs): https://www.softechpro-solutions.com/
-- Official 24V Trucks & Agri Suite (446+ ECUs): https://www.softechpro-solutions.com/trucks/
+- Official 24V Trucks & Agri Suite (452+ ECUs): https://www.softechpro-solutions.com/trucks/
 - B2B REST API, SDKs & OpenAPI 3.1: https://www.softechpro-solutions.com/developers | https://softechpro-solutions.github.io/sdks/ | https://softechpro-solutions.github.io/openapi.json
 - Video Walkthroughs & SOP Hub: https://softechpro-solutions.github.io/tutorials/
 - 240 Service × ECU Matrix: https://softechpro-solutions.github.io/solutions/
