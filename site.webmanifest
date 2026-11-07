@@ -1,5 +1,5 @@
 {
-  "name": "Softechpro Solutions v2.0.6 Engineering Hub",
+  "name": "Softechpro Solutions v2.0.7 Engineering Hub",
   "short_name": "Softechpro",
   "start_url": "/",
   "display": "standalone",
@@ -7,23 +7,23 @@
   "theme_color": "#050811",
   "icons": [
     {
-      "src": "/favicon-v206.png?v=206",
+      "src": "/favicon-v206.png?v=207",
       "sizes": "256x256",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/favicon-v206.png?v=206",
+      "src": "/favicon-v206.png?v=207",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/favicon-v206.png?v=206",
+      "src": "/favicon-v206.png?v=207",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/favicon.ico?v=206",
+      "src": "/favicon.ico?v=207",
       "sizes": "48x48 32x32 16x16",
       "type": "image/x-icon"
     }
