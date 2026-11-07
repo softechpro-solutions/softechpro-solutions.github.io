@@ -3,7 +3,7 @@
 
 - Cars & Vans Platform (4974+ ECUs): https://www.softechpro-solutions.com/
 - €1.99 25h Real Software Test (+3 Free Credits): https://www.softechpro-solutions.com/buy/realtest
-- 24V Heavy-Duty Trucks & Agriculture (452+ ECUs): https://www.softechpro-solutions.com/trucks/
+- 24V Heavy-Duty Trucks & Agriculture (446+ ECUs): https://www.softechpro-solutions.com/trucks/
 - Dealer & Developer REST API: https://www.softechpro-solutions.com/developers
 - B2B Multi-Language SDKs: https://softechpro-solutions.github.io/sdks/
 - 40 Euro 6d & DCU17/ACM2.1 Controllers: https://softechpro-solutions.github.io/controllers/
