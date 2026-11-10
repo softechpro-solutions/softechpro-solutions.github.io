@@ -1,9 +1,9 @@
 {
   "dataset": "Softechpro Trucks 24V Heavy-Duty Commercial, Bus, Agricultural & Construction ECU Catalog",
   "softwareVersion": "2.0.7",
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "officialPlatform": "https://www.softechpro-solutions.com/trucks/",
-  "totalControllers": 446,
+  "totalControllers": 437,
   "totalBrands": 82,
   "brands": {}
 }

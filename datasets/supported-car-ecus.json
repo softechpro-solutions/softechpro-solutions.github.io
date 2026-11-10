@@ -1,9 +1,9 @@
 {
   "dataset": "Softechpro Solutions 12V Passenger Car & Light Van Supported ECU Catalog",
   "softwareVersion": "2.0.7",
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "officialPlatform": "https://www.softechpro-solutions.com/",
-  "totalControllers": 4982,
+  "totalControllers": 5000,
   "totalBrands": 79,
   "brands": {}
 }
